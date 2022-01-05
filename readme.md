@@ -36,6 +36,7 @@ A He-Ne laser, operating at 10mW with wavelength of 632nm was used as a light so
 # *Discussion*
 
 Simultaneous imaging and analysis can be done from the set-up. The holograms are achieved for both set-up. Intensity is an issue for both microscopes as the retroreflective mirror needs a neutral density filter to have comparable intensities to have better intereference. Regarding the Common path, it can be seen that the object beam was not erased based from the improvised pinhole. Reconstruction can be done when the reference beam is erased. Multiplexing may be done in the future when current issues are addressed. From there, phase imaging methods may be done to maximize its use.
+The resolution target used is NBS 1963A 1x R2L2S1P1. The resolution of the microscope has 25 cycles/mm or 25 line pairs per mm or 0.04 mm cycle size
 
 # II. Mach-Zender Based Holography
 In Physics, the Mach-Zender interferometer is a device used to determine the relative phase shift variations between two collimated beams derived by splitting light from a single source. The interferometer has been used among other things, to measure phase shifts between the two beams caused by a sample or a change in length of one of the paths. The apparatus is named after physicists Ludwig Mach and Ludwig Zehnder. Demonstration of Mach-Zender interferometry with particles other than photons (particles of light) had been demonstrated as well in multiple experiments.
